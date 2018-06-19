@@ -4,9 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.rclgroup.com.DivideOperation;
-import com.rclgroup.com.DivideOperationException;
-
 public class DivideNumberTest {
 
 	@Test(expected=DivideOperationException.class)

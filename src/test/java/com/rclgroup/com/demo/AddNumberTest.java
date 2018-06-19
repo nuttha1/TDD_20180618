@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.rclgroup.com.AddOperation;
-
 public class AddNumberTest {
 
 	@Test

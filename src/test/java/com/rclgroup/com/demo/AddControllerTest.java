@@ -14,8 +14,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 //THESE 2 LINES WILL START SPRING, CALLED SPRINT CONTEXT
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
-
-
 public class AddControllerTest {
 
 	@Autowired

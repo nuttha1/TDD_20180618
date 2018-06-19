@@ -1,4 +1,4 @@
-package com.rclgroup.com;
+package com.rclgroup.com.demo;
 
 public class DivideOperation {
 	
